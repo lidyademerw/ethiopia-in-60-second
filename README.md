@@ -28,7 +28,7 @@
 - **Lidya Demerw**
 - **nardos tsige**
 - **Mekdes kedir**
- -**bethelhem daniel**
+- **bethelhem daniel**
 - **selome**
 - **selam**
 
