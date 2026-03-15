@@ -4,8 +4,8 @@
 
 ## 📸 Preview
 <p align="center">
-  <img src="screenshots/home.png" width="400" alt="Homepage">
-  <img src="screenshots/regions.png" width="400" alt="Regions Page">
+  <img src="screenshots/ethiopia in 60 seconds.png" width="400" alt="Homepage">
+  <img src="screenshots/home page.png" width="400" alt="Regions Page">
 </p>
 
 ## 🚀 About the Project
