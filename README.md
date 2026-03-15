@@ -26,11 +26,11 @@
 
 ## 👥 Team
 - **Lidya Demerw**
- **nardos tsige**
- **Mekdes kedir**
- **bethelhem daniel**
- **selome**
- **selam**
+- **nardos tsige**
+- **Mekdes kedir**
+ -**bethelhem daniel**
+- **selome**
+- **selam**
 
 
 ---
